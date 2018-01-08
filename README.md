@@ -1,0 +1,2 @@
+# Digital-Systems-Labs
+digital logic circuits and design. fundamentals of combinational logic design and sequential circuits (both synchronous and asynchronous) and memory systems, Register Transfer Logic design and the structured implementation of controllers and microprogrammed computers. Modern programmable devices (PLDs) including ROMs, CPLDs and FPGAs, as well as appropriate computer aided design (CAD) tools, introduction to VHDL
